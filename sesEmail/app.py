@@ -11,7 +11,7 @@ def index():
 
 @app.route('sendsesEmail')
 def ses_email(send_email):
-    ACCESS_KEY_ID = '*'
+ACCESS_KEY_ID = '*'
 ACCESS_SECRET_KEY = '*'
 AWS_DEFAULT_REGION='us-east-2'
 AWS_REGION = "us-west-2"
