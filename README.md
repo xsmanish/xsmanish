@@ -1,8 +1,7 @@
 # Hello, I'm Manish Shrivastava 👋
 
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Boldonse&pause=1000&color=14FF7F&center=true&vCenter=true&width=435&lines=I'm+Manish+Shrivastava....;Senior+SRE+%26+DevSecOps+Leader...;Building+Reliable+Cloud+Platforms+using+AWS%2C+Kubernetes+%26+GitOps....;15%2B+Years+Experience+%7C+Platform+Engineering+%7C+Reliable+Architecture.....;Active+Learner%5B.......%5D)](https://git.io/typing-svg)
-</div>
 
 # 💫 About Me:
 I build reliable cloud platforms and production-grade Kubernetes systems.  <br>Currently leading SRE & DevSecOps initiatives at Amway, focusing on GitOps, AWS, and platform engineering.  <br>15+ years in software engineering across ETL, DevOps, and cloud-native systems.  <br>Passionate about reliability, automation, and scalable infrastructure.
